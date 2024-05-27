@@ -13,6 +13,7 @@ The configured infrastructure is described in the [stack description section](#s
 
 ## Pricing
 
+hi
 
 
 - Fixed price resources:

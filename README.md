@@ -1,4 +1,3 @@
-
 # Express.js API with Postgres
 
 > [!TIP]
